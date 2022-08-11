@@ -1,8 +1,8 @@
 ## Olá eu sou o Victor, sou estudante de Engenharia de Dados e atualmente trabalho como estágiario de Data&Analytics na maior empresa de café do Brasil!
 <div align="center">
   <a href="https://github.com/VtorMuniz/VtorMuniz/">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=vtormuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtormuniz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vtormuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtormuniz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
  
