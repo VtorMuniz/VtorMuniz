@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  
   <img align="right" alt="pic_gif" height="150" style="border-radius:50px;" src="https://68.media.tumblr.com/188f7ec2b4dc7c1e7d8ab20d939d8fb9/tumblr_n5uf3kY05Y1r3maj7o1_500.gif">
 </div>
   
@@ -21,4 +22,6 @@
   <a href = "mailto:victormuniz1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vtormuniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+  <a href="https://www.linkedin.com/in/vtormuniz/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" target="_blank"></a> 
 
